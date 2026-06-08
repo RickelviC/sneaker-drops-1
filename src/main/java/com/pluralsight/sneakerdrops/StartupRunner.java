@@ -19,4 +19,5 @@ public class StartupRunner implements CommandLineRunner {
     public void run(String... args) throws Exception {
         System.out.println(runner.getStatus());
     }
+
 }
